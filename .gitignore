@@ -1,0 +1,11 @@
+.idea/
+[bB]in/
+[oO]bj/
+
+.DS_Store/
+
+*.DotSettings.user
+
+.vs/
+
+node_modules/
